@@ -1,7 +1,6 @@
 # Flood Inundation Analysis (DEM-Based)
 
-A Python-based flood inundation analysis project developed for the **Smart Water Lab Series – Specialized Experiment 4**.  
-This project uses a Digital Elevation Model (DEM) to simulate flooding under different water levels, visualize inundation extent, calculate flood depth and flood volume, and validate physical correctness through dynamic simulations.
+A Python-based flood inundation analysis project Which uses a Digital Elevation Model (DEM) to simulate flooding under different water levels, visualize inundation extent, calculate flood depth and flood volume, and validate physical correctness through dynamic simulations.
 
 ---
 
@@ -264,6 +263,4 @@ This project demonstrates skills in:
 ---
 
 ## Author
-
-Douae Qais  
-Master's Student in Computer Science and Technology
+Qais Douae — 3125999076 — Xi'an Jiaotong University — 2026
