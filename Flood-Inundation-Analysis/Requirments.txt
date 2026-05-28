@@ -1,0 +1,4 @@
+Python +10
+numpy
+matplotlib
+imageio
