@@ -92,7 +92,6 @@ Flood-Inundation-Analysis/
 ├── flood_inundation.py
 ├── dem_data.npy
 ├── prompt_log.md
-├── README.md
 ├── requirements.txt
 │
 ├── Results/
@@ -102,6 +101,7 @@ Flood-Inundation-Analysis/
 │   ├── flood_curve.png
 │   ├── flood_volume_curve.png
 │   └── flood_animation.gif
+README.md/
 ```
 
 ---
